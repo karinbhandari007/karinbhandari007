@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kafka-Microservices in NestJs**
 
-- 📝 I write articles on [https://medium.com/@7.21karinbhandari/how-to-create-monorepo-for-react-native-apps-using-nx-f11717467038](https://medium.com/@7.21karinbhandari/how-to-create-monorepo-for-react-native-apps-using-nx-f11717467038)
+- 📝 I write articles on [https://medium.com/@7.21karinbhandari
 
 - 💬 Ask me about **ReactJs, NextJs, NestJs, React Native**
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://karin-bhandari.vercel.app/about](https://karin-bhandari.vercel.app/about)
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
