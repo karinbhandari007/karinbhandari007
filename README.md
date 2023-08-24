@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karin Bhandari</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Husslup](https://apps.apple.com/us/app/husslup/id1572592526)
+- 🔭 I’m currently open to work.
+  
+- My last project was [Husslup](https://apps.apple.com/us/app/husslup/id1572592526)
 
 - 🌱 I’m currently learning **Kafka-Microservices in NestJs**
 
