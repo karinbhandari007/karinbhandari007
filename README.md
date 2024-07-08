@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karin Bhandari</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
-- 🔭 I’m currently open to work.
-  
-- My last project was [Husslup](https://apps.apple.com/us/app/husslup/id1572592526)
-
-- 🌱 I’m currently learning **Kafka-Microservices in NestJs**
+- 🌱 I’m currently learning **Microsoft Powerapps**
 
 - 📝 I write articles on [https://medium.com/@7.21karinbhandari
 
-- 💬 Ask me about **ReactJs, NextJs, NestJs, React Native**
+- 💬 Ask me about **ReactJs, NextJs, NestJs, React Native, Javascript**
 
 - 📫 How to reach me **iamkarin.tech@gmail.com**
 
